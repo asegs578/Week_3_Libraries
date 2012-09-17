@@ -1,0 +1,14 @@
+To run this Processing sketch you'll need: 
+
+Kyle Mcdonald's FaceOSC
+https://github.com/kylemcdonald/ofxFaceTracker/downloads 
+
+and the oscP5 Library
+http://www.sojamo.de/libraries/oscP5/
+
+
+make sure you have FaceOSC application running at the same time you have the processing sketch running. 
+
+
+For more info on the sketch, visit my CCLab portfolio site: 
+a.parsons.edu/~asegs578/
